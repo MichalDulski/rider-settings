@@ -1,5 +1,8 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
-  <action id="FileChooser.NewFile">
-    <keyboard-shortcut first-keystroke="shift f2" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
 </keymap>
