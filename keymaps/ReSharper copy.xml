@@ -1,0 +1,28 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
+  </action>
+  <action id="RiderUnitTestAppendTestsAction" />
+  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitContextAction" />
+  <action id="RiderUnitTestDotMemoryUnitSolutionAction" />
+  <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestRepeatPreviousRunAction" />
+  <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunContextUntilFailAction" />
+  <action id="RiderUnitTestRunCurrentSessionAction" />
+  <action id="RiderUnitTestRunSolutionAction" />
+  <action id="RiderUnitTestSessionAbortAction" />
+  <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+</keymap>
