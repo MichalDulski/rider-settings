@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\src\AccessManagement\Domain\AccessControl\AccessControlServer.cs'" />
-    <option name="defaultScopeName" value="File '...\src\AccessManagement\Domain\AccessControl\AccessControlServer.cs'" />
+    <option name="customScope" value="File '...\src\AccessManagement\AccessManagementService\Components\AzureTableStorage\AzureTablesInitializer.cs'" />
+    <option name="defaultScopeName" value="File '...\src\AccessManagement\AccessManagementService\Components\AzureTableStorage\AzureTablesInitializer.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AccessManagement\Domain\AccessControl\AccessControlServer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\AccessManagement\AccessManagementService\Components\AzureTableStorage\AzureTablesInitializer.cs'" />
   </component>
 </application>
