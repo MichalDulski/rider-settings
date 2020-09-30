@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
-    <option name="defaultScopeName" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
+    <option name="customScope" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
+    <option name="defaultScopeName" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
   </component>
 </application>
