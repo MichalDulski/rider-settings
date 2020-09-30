@@ -1,7 +1,17 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/efitness/eFitness/_git/accessControl" />
+          <option name="serverUri" value="https://dev.azure.com/efitness" />
+          <option name="userId" value="bde8e881-3095-6039-baba-a14f8124a359" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;10db3901-11c6-4d06-9f4d-cceedab16e71&quot;,&quot;name&quot;:&quot;efitness&quot;,&quot;url&quot;:&quot;https://dev.azure.com/efitness/_apis/projectCollections/10db3901-11c6-4d06-9f4d-cceedab16e71&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;http://efitness.com&quot;,&quot;id&quot;:&quot;4cd696a8-8cc9-402d-ae2f-26ee1ee46bf3&quot;,&quot;name&quot;:&quot;eFitness&quot;,&quot;revision&quot;:362,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/efitness/_apis/projects/4cd696a8-8cc9-402d-ae2f-26ee1ee46bf3&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;c50fd577-a173-4423-8a72-495bea415fb4&quot;,&quot;name&quot;:&quot;accessControl&quot;,&quot;remoteUrl&quot;:&quot;https://efitness@dev.azure.com/efitness/eFitness/_git/accessControl&quot;,&quot;url&quot;:&quot;https://dev.azure.com/efitness/_apis/git/repositories/c50fd577-a173-4423-8a72-495bea415fb4&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;http://efitness.com&quot;,&quot;id&quot;:&quot;4cd696a8-8cc9-402d-ae2f-26ee1ee46bf3&quot;,&quot;name&quot;:&quot;eFitness&quot;,&quot;revision&quot;:362,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/efitness/_apis/projects/4cd696a8-8cc9-402d-ae2f-26ee1ee46bf3&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
