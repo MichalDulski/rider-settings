@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\William.DAL\Repositories\City\CityRepository.cs'" />
+    <option name="customScope" value="Project 'IrisEnrollmentService'" />
+    <option name="defaultScopeName" value="Project 'IrisEnrollmentService'" />
+    <option name="SEARCH_SCOPE" value="Project 'IrisEnrollmentService'" />
   </component>
 </application>
