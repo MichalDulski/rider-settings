@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\AccessControl\IrisManagementService\AccessAttempts\GetAccessAttemptsHandler.cs'" />
-    <option name="defaultScopeName" value="File '...\src\AccessControl\IrisManagementService\AccessAttempts\GetAccessAttemptsHandler.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AccessControl\IrisManagementService\AccessAttempts\GetAccessAttemptsHandler.cs'" />
+    <option name="customScope" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
+    <option name="defaultScopeName" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\AccessManagement\AccessManagementService\Commands\CreateMemberClubAccessProfileHandler.cs'" />
   </component>
 </application>
