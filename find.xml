@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Carpool.DAL\Repositories\Coordinates\CoordinatesRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\Carpool.DAL\Repositories\Coordinates\CoordinatesRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Carpool.DAL\Repositories\Coordinates\CoordinatesRepository.cs'" />
+    <option name="customScope" value="File '...\Carpool.RestAPI\Controllers\LocationsController.cs'" />
+    <option name="defaultScopeName" value="File '...\Carpool.RestAPI\Controllers\LocationsController.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Carpool.RestAPI\Controllers\LocationsController.cs'" />
   </component>
 </application>
