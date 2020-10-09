@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\AccessControl\IrisEnrollmentService\Program.cs'" />
-    <option name="defaultScopeName" value="File '...\src\AccessControl\IrisEnrollmentService\Program.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AccessControl\IrisEnrollmentService\Program.cs'" />
+    <option name="customScope" value="Project 'IrisEnrollmentService'" />
+    <option name="defaultScopeName" value="Project 'IrisEnrollmentService'" />
+    <option name="SEARCH_SCOPE" value="Project 'IrisEnrollmentService'" />
   </component>
 </application>
