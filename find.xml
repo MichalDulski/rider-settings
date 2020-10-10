@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Carpool.DAL\Repositories\Group\IGroupRepository.cs'" />
-    <option name="defaultScopeName" value="File '...\Carpool.DAL\Repositories\Group\IGroupRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Carpool.DAL\Repositories\Group\IGroupRepository.cs'" />
+    <option name="customScope" value="File '...\Carpool.RestAPI.Tests\Fixtures\DatabaseFixture.cs'" />
+    <option name="defaultScopeName" value="File '...\Carpool.RestAPI.Tests\Fixtures\DatabaseFixture.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Carpool.RestAPI.Tests\Fixtures\DatabaseFixture.cs'" />
   </component>
 </application>
