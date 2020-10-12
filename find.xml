@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IEnrolViewModel.cs'" />
-    <option name="defaultScopeName" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IEnrolViewModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IEnrolViewModel.cs'" />
+    <option name="customScope" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IrisEnrollViewModel.cs'" />
+    <option name="defaultScopeName" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IrisEnrollViewModel.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AccessControl\Esurf.SF.AccessControl.eFitness.Kiosk\ViewModels\Enrol\IrisEnrollViewModel.cs'" />
   </component>
 </application>
