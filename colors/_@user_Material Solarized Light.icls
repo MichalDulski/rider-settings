@@ -4,7 +4,7 @@
     <property name="created">2020-11-05T09:28:47</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.4.0.0</property>
-    <property name="modified">2020-11-05T18:08:54</property>
+    <property name="modified">2020-11-05T18:16:35</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3676,7 +3676,7 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="" />
+    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="9900" />
