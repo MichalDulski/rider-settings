@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\AccessControl\BiometricManagementGateway\Startup.cs'" />
-    <option name="defaultScopeName" value="File '...\src\AccessControl\BiometricManagementGateway\Startup.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\AccessControl\BiometricManagementGateway\Startup.cs'" />
+    <option name="customScope" value="File '...\src\AccessControl\BiometricManagementGateway\Components\AccessManagementService\IEnrollmentProvider.cs'" />
+    <option name="defaultScopeName" value="File '...\src\AccessControl\BiometricManagementGateway\Components\AccessManagementService\IEnrollmentProvider.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\AccessControl\BiometricManagementGateway\Components\AccessManagementService\IEnrollmentProvider.cs'" />
   </component>
 </application>
