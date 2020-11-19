@@ -1,7 +1,16 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/efitness" />
+          <option name="serverUri" value="https://dev.azure.com/efitness" />
+          <option name="userId" value="bde8e881-3095-6039-baba-a14f8124a359" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
@@ -11,7 +20,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/efitness/efitness/_git/accesscontrol" />
+          <option name="value" value="//dev.azure.com/efitness" />
         </PropertyState>
       </array>
     </option>
