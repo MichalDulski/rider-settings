@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'BiometricGateway'" />
-    <option name="defaultScopeName" value="Project 'BiometricGateway'" />
-    <option name="SEARCH_SCOPE" value="Project 'BiometricGateway'" />
+    <option name="customScope" value="File '...\AuthService\IdentityServer\Config.cs'" />
+    <option name="defaultScopeName" value="File '...\AuthService\IdentityServer\Config.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\AuthService\IdentityServer\Config.cs'" />
   </component>
 </application>
