@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Dev\carpool\src\API\AuthService\AuthServer\Models\RegisterModel.cs'" />
-    <option name="defaultScopeName" value="File 'C:\Dev\carpool\src\API\AuthService\AuthServer\Models\RegisterModel.cs'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Dev\carpool\src\API\AuthService\AuthServer\Models\RegisterModel.cs'" />
+    <option name="customScope" value="File 'C:\Dev\carpool\src\API\Shared\DataTransferObjects\RideRequest\RideRequestDtos.cs'" />
+    <option name="defaultScopeName" value="File 'C:\Dev\carpool\src\API\Shared\DataTransferObjects\RideRequest\RideRequestDtos.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Dev\carpool\src\API\Shared\DataTransferObjects\RideRequest\RideRequestDtos.cs'" />
   </component>
 </application>
