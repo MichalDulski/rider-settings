@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Dev\carpool\src\API\RestService\DataAccessLayer\Repositories\RideRepository.cs'" />
-    <option name="defaultScopeName" value="File 'C:\Dev\carpool\src\API\RestService\DataAccessLayer\Repositories\RideRepository.cs'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Dev\carpool\src\API\RestService\DataAccessLayer\Repositories\RideRepository.cs'" />
+    <option name="customScope" value="Project 'Domain'" />
+    <option name="defaultScopeName" value="Project 'Domain'" />
+    <option name="SEARCH_SCOPE" value="Project 'Domain'" />
   </component>
 </application>
